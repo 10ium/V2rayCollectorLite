@@ -11,11 +11,11 @@
 It is so easy just go ahead and download a V2ray Client App that **supports subscription link** and use these links as subscription link 🤩
 Config Type|subscription link
 -------------------------------|-----------------------------|
-Vmess         |https://raw.githubusercontent.com/10ium/V2rayCollectorLire/main/vmess_iran.txt      |
-ShadowSocks        |https://raw.githubusercontent.com/10ium/V2rayCollectorLire/main/ss_iran.txt  |
-Trojan |https://raw.githubusercontent.com/10ium/V2rayCollectorLire/main/trojan_iran.txt|
-Vless|https://raw.githubusercontent.com/10ium/V2rayCollectorLire/main/vless_iran.txt|
-Mixed (configs of this are different)|https://raw.githubusercontent.com/10ium/V2rayCollectorLire/main/mixed_iran.txt|
+Vmess         |https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/vmess_iran.txt      |
+ShadowSocks        |https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/ss_iran.txt  |
+Trojan |https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/trojan_iran.txt|
+Vless|https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/vless_iran.txt|
+Mixed (configs of this are different)|https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/mixed_iran.txt|
 
 
 ## Todos
@@ -32,7 +32,7 @@ Mixed (configs of this are different)|https://raw.githubusercontent.com/10ium/V2
  - [x] Fix issue at removing duplicate lines ( duplicates won't create by script , some channels put duplicate configs in their chats :D )
 
 # Telegram channels list that used as source 😉 
-click [here](https://github.com/10ium/V2rayCollectorLire/blob/main/channels.csv) to see the list
+click [here](https://github.com/10ium/V2rayCollectorLite/blob/main/channels.csv) to see the list
 
 If you know other telegram channels which they put V2ray Configs feel free to add pull request :)
 
